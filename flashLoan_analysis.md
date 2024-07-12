@@ -11,8 +11,8 @@
 ### Function Name: flashLoan
 ### Block Explorer Link:  [Aave LendingPool Contract on Etherscan](https://etherscan.io/address/0x398ec7346dcD622eDc5ae82352F02bE94C62d119#code)
 
-### Function Code
-
+### Function Code:
+```solidity
 function flashLoan(
     address receiverAddress,
     address[] calldata assets,
